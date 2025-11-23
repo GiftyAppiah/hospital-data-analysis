@@ -1,0 +1,301 @@
+PatientID,Gender,Age,Region,Department,Doctor,VisitDate,Diagnosis,TreatmentCost,PaymentStatus,LengthOfStay,SatisfactionRating
+PT1001,Male,4,Upper West,Gynecology,Dr. Owusu,12/03/2024,Typhoid,3415.83,Insurance,0,5
+PT1002,Female,5,Greater Accra,Surgery,Dr. Owusu,29/04/2024,Ulcer,3049.89,Insurance,2,5
+PT1003,Female,29,North East,Ophthalmology,Dr. Adjei,04/01/2024,Flu,3520.88,Pending,3,2
+PT1004,Male,44,Western,Surgery,Dr. Gyamfi,19/02/2024,Asthma,4252.72,Insurance,3,1
+PT1005,Female,69,Western,Dermatology,Dr. Boateng,09/10/2024,Diabetes,4164.08,Insurance,4,5
+PT1006,Male,9,Ashanti,Gynecology,Dr. Adjei,10/02/2024,Hypertension,4345.77,Pending,3,4
+PT1007,Female,21,Ahafo,Cardiology,Dr. Owusu,09/12/2024,Diabetes,3538.92,Insurance,0,5
+PT1008,Male,69,Upper East,Pediatrics,Dr. Dapaah,13/07/2024,Diabetes,4948.66,Insurance,2,3
+PT1009,Male,30,Ashanti,Cardiology,Dr. Gyamfi,17/05/2024,Typhoid,1133.82,Insurance,4,2
+PT1010,Female,51,North East,Pediatrics,Dr. Adjei,12/03/2024,Hypertension,3750.45,Insurance,3,5
+PT1011,Female,75,Bono,Cardiology,Dr. Owusu,11/03/2024,Ulcer,2518.23,Paid,0,2
+PT1012,Male,88,Bono East,Ophthalmology,Dr. Boateng,16/07/2024,Fracture,3019.85,Pending,3,5
+PT1013,Male,88,Western,Neurology,Dr. Adjei,24/11/2024,Asthma,646.61,Pending,1,4
+PT1014,Male,34,Volta,Neurology,Dr. Boateng,16/11/2024,Diabetes,4224.18,Insurance,2,2
+PT1015,Female,21,Greater Accra,Ophthalmology,Dr. Nkrumah,07/09/2024,Malaria,648.15,Pending,3,2
+PT1016,Male,31,Eastern,Surgery,Dr. Dapaah,05/02/2024,Ulcer,3852.59,Paid,7,5
+PT1017,Male,34,Bono East,Gynecology,Dr. Amoako,19/12/2024,Hypertension,3593.45,Pending,4,4
+PT1018,Female,16,Upper East,Gynecology,Dr. Boateng,22/06/2024,Malaria,2982.71,Paid,2,1
+PT1019,Male,81,Ashanti,Gynecology,Dr. Boateng,17/01/2024,Asthma,447.2,Paid,3,4
+PT1020,Male,70,Central,Ophthalmology,Dr. Sarpong,30/08/2024,Hypertension,3944.64,Pending,2,1
+PT1021,Male,85,Bono East,Cardiology,Dr. Gyamfi,29/07/2024,Migraine,4332.8,Paid,0,1
+PT1022,Female,44,Western,Gynecology,Dr. Owusu,07/04/2024,Ulcer,2298.21,Pending,1,3
+PT1023,Female,32,Eastern,ENT,Dr. Amoako,20/02/2024,Malaria,3295.51,Insurance,0,1
+PT1024,Male,22,Bono East,ENT,Dr. Dapaah,19/04/2024,Fracture,4521.97,Paid,5,1
+PT1025,Female,34,North East,Orthopedics,Dr. Gyamfi,22/12/2024,Ulcer,3343.17,Pending,1,2
+PT1026,Female,28,Ashanti,Ophthalmology,Dr. Amoako,01/02/2024,Asthma,380.11,Insurance,7,5
+PT1027,Male,8,Eastern,Pediatrics,Dr. Boateng,31/10/2024,Typhoid,3408.54,Paid,5,1
+PT1028,Male,75,Ashanti,Ophthalmology,Dr. Boateng,02/08/2024,Skin Infection,2869.61,Pending,3,2
+PT1029,Female,31,Upper West,Dermatology,Dr. Asare,09/12/2024,Diabetes,2340.4,Paid,0,4
+PT1030,Male,10,Northern,Neurology,Dr. Adjei,08/03/2024,Asthma,4416.23,Paid,4,3
+PT1031,Male,57,Savannah,Ophthalmology,Dr. Amoako,05/01/2024,Ulcer,1566.96,Insurance,0,2
+PT1032,Female,15,Western,Neurology,Dr. Asare,19/05/2024,Diabetes,3063.67,Insurance,4,2
+PT1033,Female,65,Western North,Orthopedics,Dr. Mensah,17/02/2024,Fracture,4163.81,Paid,0,3
+PT1034,Male,82,Upper West,Pediatrics,Dr. Dapaah,09/10/2024,Fracture,2848.44,Paid,0,2
+PT1035,Male,48,Central,Dermatology,Dr. Asare,22/01/2024,Diabetes,1886.79,Paid,4,2
+PT1036,Male,86,Western,Cardiology,Dr. Amoako,27/07/2024,Skin Infection,3772.44,Paid,1,2
+PT1037,Female,4,Volta,Cardiology,Dr. Gyamfi,08/12/2024,Hypertension,1407.35,Insurance,0,4
+PT1038,Male,61,Upper East,Gynecology,Dr. Dapaah,28/06/2024,Diabetes,4120.63,Paid,2,1
+PT1039,Male,52,Oti,Orthopedics,Dr. Boateng,22/05/2024,Asthma,3243.26,Pending,4,1
+PT1040,Male,34,Volta,Ophthalmology,Dr. Adjei,20/01/2024,Typhoid,3023.2,Pending,4,4
+PT1041,Male,50,Northern,Orthopedics,Dr. Mensah,28/12/2024,Fracture,108.29,Insurance,2,3
+PT1042,Female,9,Oti,Ophthalmology,Dr. Nkrumah,05/12/2024,Typhoid,3626.8,Pending,3,4
+PT1043,Female,52,Savannah,Neurology,Dr. Asare,08/04/2024,Fracture,3358.15,Pending,1,5
+PT1044,Female,52,Greater Accra,Orthopedics,Dr. Adjei,17/04/2024,Fracture,3950.22,Insurance,4,4
+PT1045,Female,57,Northern,Neurology,Dr. Dapaah,27/03/2024,Typhoid,1490.55,Insurance,4,1
+PT1046,Male,87,Savannah,Gynecology,Dr. Owusu,16/03/2024,Malaria,326.45,Pending,0,4
+PT1047,Female,81,Northern,Dermatology,Dr. Dapaah,23/07/2024,Hypertension,823.1,Insurance,0,1
+PT1048,Female,29,Volta,Neurology,Dr. Dapaah,26/01/2024,Ulcer,1321.07,Paid,7,2
+PT1049,Female,86,Oti,ENT,Dr. Sarpong,15/09/2024,Fracture,4169.79,Insurance,7,2
+PT1050,Female,58,Upper West,Gynecology,Dr. Adjei,23/09/2024,Migraine,3171.07,Pending,7,1
+PT1051,Female,31,Upper West,Cardiology,Dr. Nkrumah,03/10/2024,Typhoid,778.03,Paid,5,2
+PT1052,Male,9,Bono East,Dermatology,Dr. Nkrumah,04/10/2024,Migraine,2137.29,Paid,5,4
+PT1053,Male,74,Bono,ENT,Dr. Mensah,29/06/2024,Diabetes,3792.03,Pending,2,4
+PT1054,Male,35,Bono East,ENT,Dr. Mensah,18/07/2024,Asthma,3377.48,Pending,1,4
+PT1055,Male,80,Greater Accra,Dermatology,Dr. Sarpong,15/10/2024,Malaria,511.34,Pending,1,4
+PT1056,Male,7,Upper West,Dermatology,Dr. Nkrumah,18/04/2024,Migraine,1701.54,Pending,3,4
+PT1057,Female,11,Western North,General Medicine,Dr. Amoako,27/01/2024,Asthma,1198.69,Paid,0,1
+PT1058,Male,26,Greater Accra,Ophthalmology,Dr. Asare,02/05/2024,Flu,2420.45,Paid,2,4
+PT1059,Female,48,Volta,Ophthalmology,Dr. Sarpong,28/02/2024,Flu,4827.13,Paid,0,3
+PT1060,Female,51,Northern,Surgery,Dr. Sarpong,19/12/2024,Hypertension,599.32,Pending,0,5
+PT1061,Male,45,Bono East,Cardiology,Dr. Boateng,16/09/2024,Asthma,162.0,Pending,7,1
+PT1062,Female,47,North East,Pediatrics,Dr. Gyamfi,31/03/2024,Ulcer,4830.82,Pending,7,4
+PT1063,Female,76,Upper West,Cardiology,Dr. Owusu,14/02/2024,Diabetes,4419.99,Paid,7,5
+PT1064,Female,44,Greater Accra,ENT,Dr. Nkrumah,03/04/2024,Migraine,1139.39,Pending,4,3
+PT1065,Female,72,Greater Accra,Neurology,Dr. Owusu,13/02/2024,Hypertension,3628.37,Pending,2,4
+PT1066,Female,58,Greater Accra,Surgery,Dr. Adjei,23/04/2024,Fracture,3489.76,Pending,4,4
+PT1067,Female,55,Oti,Cardiology,Dr. Dapaah,18/05/2024,Diabetes,1331.88,Paid,2,3
+PT1068,Male,69,Volta,Gynecology,Dr. Owusu,04/09/2024,Diabetes,3650.47,Insurance,3,1
+PT1069,Male,38,Upper East,Cardiology,Dr. Asare,03/06/2024,Malaria,3569.29,Paid,3,1
+PT1070,Male,71,Savannah,Pediatrics,Dr. Dapaah,22/02/2024,Malaria,2912.91,Pending,7,4
+PT1071,Female,24,Ashanti,Orthopedics,Dr. Dapaah,28/02/2024,Typhoid,2063.47,Paid,0,2
+PT1072,Male,73,Savannah,Surgery,Dr. Owusu,01/03/2024,Ulcer,3845.77,Insurance,2,5
+PT1073,Female,58,North East,Orthopedics,Dr. Sarpong,07/08/2024,Diabetes,2886.28,Paid,0,2
+PT1074,Male,34,Eastern,Pediatrics,Dr. Owusu,29/03/2024,Ulcer,467.82,Paid,5,4
+PT1075,Female,38,Ashanti,Gynecology,Dr. Adjei,27/12/2024,Diabetes,3544.64,Pending,0,2
+PT1076,Female,81,Northern,Dermatology,Dr. Boateng,05/10/2024,Hypertension,3273.41,Pending,1,1
+PT1077,Male,22,Savannah,Ophthalmology,Dr. Sarpong,27/05/2024,Migraine,709.33,Insurance,3,4
+PT1078,Female,65,Western North,ENT,Dr. Boateng,02/11/2024,Malaria,4458.17,Insurance,4,5
+PT1079,Female,4,Eastern,Gynecology,Dr. Sarpong,27/10/2024,Malaria,4997.9,Insurance,3,5
+PT1080,Male,23,Western North,Neurology,Dr. Dapaah,22/05/2024,Flu,4985.03,Pending,7,1
+PT1081,Female,45,Bono East,Cardiology,Dr. Nkrumah,09/12/2024,Typhoid,4302.89,Pending,5,4
+PT1082,Female,85,Bono,Neurology,Dr. Mensah,20/08/2024,Typhoid,1641.13,Pending,0,4
+PT1083,Male,85,North East,Dermatology,Dr. Mensah,06/04/2024,Ulcer,1872.72,Pending,7,1
+PT1084,Male,35,Central,Orthopedics,Dr. Dapaah,23/12/2024,Migraine,694.99,Insurance,2,2
+PT1085,Female,71,Greater Accra,Neurology,Dr. Gyamfi,17/02/2024,Hypertension,4962.06,Paid,7,1
+PT1086,Male,64,Savannah,Neurology,Dr. Adjei,31/07/2024,Migraine,4903.2,Paid,7,5
+PT1087,Male,50,Northern,Ophthalmology,Dr. Amoako,10/03/2024,Typhoid,1453.61,Pending,4,5
+PT1088,Female,1,Savannah,Orthopedics,Dr. Sarpong,23/10/2024,Migraine,4339.78,Pending,7,3
+PT1089,Female,71,Bono,ENT,Dr. Nkrumah,06/04/2024,Hypertension,2901.81,Paid,5,1
+PT1090,Female,61,Bono,Dermatology,Dr. Asare,10/09/2024,Malaria,718.61,Insurance,4,1
+PT1091,Female,13,North East,General Medicine,Dr. Asare,28/07/2024,Flu,466.66,Pending,4,5
+PT1092,Female,84,Eastern,Cardiology,Dr. Amoako,13/07/2024,Asthma,3171.32,Pending,0,5
+PT1093,Male,31,Savannah,Gynecology,Dr. Boateng,10/08/2024,Typhoid,3825.81,Insurance,0,4
+PT1094,Male,89,Savannah,General Medicine,Dr. Mensah,15/06/2024,Malaria,1537.5,Pending,5,2
+PT1095,Male,68,Bono East,Ophthalmology,Dr. Asare,28/03/2024,Flu,486.94,Pending,2,4
+PT1096,Male,30,North East,Orthopedics,Dr. Dapaah,10/05/2024,Malaria,4504.65,Pending,3,5
+PT1097,Male,10,North East,Cardiology,Dr. Sarpong,02/06/2024,Fracture,3482.54,Pending,3,2
+PT1098,Female,62,Western,Gynecology,Dr. Gyamfi,19/10/2024,Asthma,2916.58,Insurance,3,1
+PT1099,Female,36,Greater Accra,Ophthalmology,Dr. Mensah,06/11/2024,Migraine,4180.91,Pending,2,5
+PT1100,Female,29,Northern,Ophthalmology,Dr. Adjei,13/12/2024,Flu,3178.42,Insurance,0,3
+PT1101,Female,5,Ahafo,Pediatrics,Dr. Boateng,31/05/2024,Asthma,3762.66,Paid,2,2
+PT1102,Female,68,Upper West,Pediatrics,Dr. Adjei,03/09/2024,Diabetes,3758.14,Pending,0,4
+PT1103,Male,19,Upper East,Dermatology,Dr. Amoako,06/07/2024,Typhoid,3974.34,Paid,3,5
+PT1104,Male,59,Ahafo,Orthopedics,Dr. Sarpong,14/07/2024,Asthma,630.9,Paid,7,1
+PT1105,Female,79,Upper East,Surgery,Dr. Dapaah,24/12/2024,Diabetes,3281.27,Paid,1,1
+PT1106,Male,39,Western North,Surgery,Dr. Boateng,30/04/2024,Ulcer,764.75,Pending,4,5
+PT1107,Female,76,Central,Dermatology,Dr. Boateng,07/09/2024,Skin Infection,2099.77,Pending,0,3
+PT1108,Male,57,North East,Gynecology,Dr. Nkrumah,20/02/2024,Asthma,2767.88,Insurance,4,1
+PT1109,Female,36,Northern,Surgery,Dr. Dapaah,16/02/2024,Hypertension,3244.35,Insurance,0,1
+PT1110,Female,32,Central,Ophthalmology,Dr. Owusu,05/02/2024,Ulcer,1115.07,Paid,2,3
+PT1111,Male,77,Greater Accra,Orthopedics,Dr. Asare,07/03/2024,Ulcer,1328.21,Paid,0,1
+PT1112,Male,2,Ahafo,Gynecology,Dr. Sarpong,14/06/2024,Malaria,953.81,Paid,1,4
+PT1113,Male,9,Western North,ENT,Dr. Nkrumah,19/09/2024,Skin Infection,634.36,Insurance,2,5
+PT1114,Male,85,Savannah,ENT,Dr. Mensah,01/02/2024,Migraine,4251.76,Pending,0,4
+PT1115,Female,10,Eastern,Cardiology,Dr. Sarpong,16/03/2024,Typhoid,718.34,Insurance,4,4
+PT1116,Female,59,Bono East,Surgery,Dr. Boateng,01/12/2024,Ulcer,3632.12,Paid,5,4
+PT1117,Male,53,Oti,ENT,Dr. Gyamfi,31/07/2024,Typhoid,1631.49,Pending,3,3
+PT1118,Male,88,Western North,Surgery,Dr. Boateng,13/02/2024,Typhoid,2216.19,Insurance,4,2
+PT1119,Male,76,Oti,Surgery,Dr. Gyamfi,30/06/2024,Fracture,4353.65,Insurance,0,3
+PT1120,Female,46,Western,Ophthalmology,Dr. Amoako,18/04/2024,Flu,3318.01,Paid,0,3
+PT1121,Female,15,Upper West,Ophthalmology,Dr. Owusu,07/08/2024,Ulcer,4875.28,Insurance,0,5
+PT1122,Female,4,Volta,Orthopedics,Dr. Adjei,22/06/2024,Asthma,129.92,Paid,5,1
+PT1123,Male,82,Greater Accra,Surgery,Dr. Amoako,20/04/2024,Fracture,2157.18,Pending,1,3
+PT1124,Female,42,Eastern,General Medicine,Dr. Asare,21/03/2024,Skin Infection,343.84,Paid,3,4
+PT1125,Female,63,North East,Dermatology,Dr. Adjei,20/04/2024,Ulcer,657.71,Pending,0,3
+PT1126,Female,68,Savannah,General Medicine,Dr. Owusu,21/07/2024,Skin Infection,368.43,Paid,3,2
+PT1127,Male,33,Savannah,Cardiology,Dr. Boateng,04/01/2024,Migraine,3760.37,Paid,1,4
+PT1128,Male,65,Ahafo,Surgery,Dr. Gyamfi,22/01/2024,Fracture,191.83,Paid,4,5
+PT1129,Female,74,Bono,Dermatology,Dr. Adjei,28/02/2024,Fracture,202.2,Pending,1,5
+PT1130,Female,89,Ahafo,Surgery,Dr. Gyamfi,24/02/2024,Hypertension,2234.81,Pending,0,4
+PT1131,Female,44,Upper East,Cardiology,Dr. Asare,09/02/2024,Ulcer,3202.8,Insurance,2,3
+PT1132,Female,83,Central,Gynecology,Dr. Boateng,15/03/2024,Diabetes,1066.63,Insurance,1,1
+PT1133,Male,81,Western North,ENT,Dr. Sarpong,23/10/2024,Migraine,3437.55,Insurance,4,3
+PT1134,Male,57,Eastern,ENT,Dr. Dapaah,19/11/2024,Diabetes,4002.02,Insurance,0,3
+PT1135,Male,40,North East,ENT,Dr. Mensah,30/01/2024,Asthma,4175.31,Paid,0,5
+PT1136,Female,60,Ashanti,ENT,Dr. Sarpong,29/11/2024,Hypertension,1675.48,Pending,1,1
+PT1137,Female,14,Oti,Surgery,Dr. Amoako,26/11/2024,Flu,291.8,Insurance,7,4
+PT1138,Male,47,Ahafo,Orthopedics,Dr. Gyamfi,28/07/2024,Asthma,3426.6,Paid,4,1
+PT1139,Female,13,Bono,Orthopedics,Dr. Adjei,02/12/2024,Skin Infection,4379.07,Pending,0,5
+PT1140,Male,45,Savannah,Dermatology,Dr. Asare,31/10/2024,Typhoid,1616.95,Pending,4,2
+PT1141,Male,83,Bono East,Neurology,Dr. Nkrumah,10/01/2024,Asthma,1613.44,Paid,4,4
+PT1142,Male,29,Central,Pediatrics,Dr. Boateng,31/05/2024,Typhoid,2587.68,Insurance,0,3
+PT1143,Male,77,Bono,Pediatrics,Dr. Asare,02/04/2024,Skin Infection,4064.31,Paid,7,1
+PT1144,Female,47,Upper East,ENT,Dr. Sarpong,25/05/2024,Migraine,1246.61,Paid,3,4
+PT1145,Male,48,North East,ENT,Dr. Adjei,14/07/2024,Ulcer,2684.55,Paid,2,5
+PT1146,Male,33,Ashanti,ENT,Dr. Nkrumah,10/10/2024,Typhoid,3585.86,Insurance,0,3
+PT1147,Male,21,Upper West,ENT,Dr. Amoako,16/03/2024,Fracture,549.4,Paid,7,3
+PT1148,Male,54,Ashanti,Dermatology,Dr. Amoako,10/07/2024,Hypertension,1992.21,Paid,4,2
+PT1149,Male,41,Western,Cardiology,Dr. Asare,11/03/2024,Malaria,1505.71,Pending,1,4
+PT1150,Female,79,Greater Accra,Surgery,Dr. Mensah,11/05/2024,Hypertension,4191.32,Insurance,5,1
+PT1151,Female,31,Savannah,Surgery,Dr. Mensah,02/05/2024,Fracture,3230.86,Insurance,7,1
+PT1152,Male,64,Greater Accra,Neurology,Dr. Sarpong,03/05/2024,Flu,1527.23,Paid,4,2
+PT1153,Female,24,Eastern,Neurology,Dr. Nkrumah,04/02/2024,Ulcer,2766.0,Insurance,0,4
+PT1154,Female,6,Bono,Cardiology,Dr. Adjei,09/01/2024,Asthma,3963.75,Pending,2,1
+PT1155,Female,18,Ashanti,Cardiology,Dr. Amoako,22/06/2024,Flu,4168.88,Insurance,7,4
+PT1156,Male,18,Eastern,ENT,Dr. Mensah,30/05/2024,Hypertension,314.65,Paid,0,3
+PT1157,Female,66,Bono,Neurology,Dr. Dapaah,09/05/2024,Malaria,3791.13,Paid,3,3
+PT1158,Male,84,Oti,Orthopedics,Dr. Boateng,07/07/2024,Fracture,4458.48,Insurance,7,4
+PT1159,Female,24,Western North,ENT,Dr. Nkrumah,22/09/2024,Diabetes,4025.63,Insurance,5,1
+PT1160,Female,78,Volta,Neurology,Dr. Adjei,13/06/2024,Typhoid,492.34,Insurance,3,3
+PT1161,Female,78,Bono East,Pediatrics,Dr. Dapaah,28/06/2024,Migraine,307.54,Pending,5,3
+PT1162,Male,10,Bono,Cardiology,Dr. Amoako,13/12/2024,Flu,4768.67,Paid,7,1
+PT1163,Male,9,Upper East,Cardiology,Dr. Nkrumah,15/07/2024,Skin Infection,258.69,Paid,7,3
+PT1164,Female,57,Eastern,Ophthalmology,Dr. Asare,28/09/2024,Asthma,2050.37,Insurance,3,2
+PT1165,Male,4,Volta,ENT,Dr. Amoako,17/07/2024,Ulcer,677.03,Pending,7,2
+PT1166,Female,89,Western North,Gynecology,Dr. Boateng,10/03/2024,Typhoid,2315.01,Insurance,7,1
+PT1167,Female,86,Ahafo,Surgery,Dr. Amoako,04/10/2024,Diabetes,4467.53,Paid,1,3
+PT1168,Male,16,Northern,Pediatrics,Dr. Owusu,09/09/2024,Malaria,1868.39,Insurance,4,4
+PT1169,Male,79,Eastern,Surgery,Dr. Adjei,22/07/2024,Migraine,2675.91,Pending,0,2
+PT1170,Female,83,Eastern,ENT,Dr. Dapaah,14/12/2024,Ulcer,1788.12,Insurance,1,2
+PT1171,Female,65,Ashanti,Surgery,Dr. Amoako,19/03/2024,Diabetes,906.82,Pending,2,3
+PT1172,Female,11,Upper West,Gynecology,Dr. Amoako,20/05/2024,Flu,3162.61,Insurance,0,5
+PT1173,Male,76,Central,Pediatrics,Dr. Sarpong,05/11/2024,Asthma,4228.4,Insurance,0,1
+PT1174,Male,6,Upper West,Gynecology,Dr. Sarpong,01/08/2024,Skin Infection,3231.06,Pending,3,3
+PT1175,Female,32,Bono,Orthopedics,Dr. Dapaah,07/02/2024,Malaria,874.59,Pending,7,4
+PT1176,Male,44,Central,Cardiology,Dr. Nkrumah,25/06/2024,Fracture,740.75,Pending,0,3
+PT1177,Male,60,Western,Orthopedics,Dr. Dapaah,06/05/2024,Flu,574.38,Pending,5,5
+PT1178,Female,32,Volta,Cardiology,Dr. Sarpong,09/06/2024,Hypertension,3839.29,Pending,7,4
+PT1179,Female,64,Greater Accra,Surgery,Dr. Gyamfi,15/09/2024,Migraine,4836.76,Paid,4,1
+PT1180,Male,37,Western North,Ophthalmology,Dr. Dapaah,26/05/2024,Ulcer,140.07,Paid,5,2
+PT1181,Female,47,Bono,Cardiology,Dr. Mensah,24/07/2024,Malaria,2894.38,Paid,4,5
+PT1182,Female,10,Bono,Neurology,Dr. Dapaah,08/10/2024,Diabetes,4144.03,Insurance,0,2
+PT1183,Male,51,Ahafo,Cardiology,Dr. Amoako,06/07/2024,Flu,1075.38,Insurance,5,5
+PT1184,Male,6,Ashanti,Pediatrics,Dr. Nkrumah,30/08/2024,Ulcer,2339.24,Insurance,1,3
+PT1185,Female,21,Bono,Ophthalmology,Dr. Adjei,30/10/2024,Asthma,2585.84,Insurance,7,5
+PT1186,Female,61,Greater Accra,Cardiology,Dr. Nkrumah,10/12/2024,Typhoid,4901.5,Insurance,3,1
+PT1187,Female,34,Upper East,General Medicine,Dr. Sarpong,02/09/2024,Flu,2668.74,Insurance,5,2
+PT1188,Male,5,Western,Gynecology,Dr. Mensah,13/08/2024,Asthma,2152.02,Pending,2,4
+PT1189,Female,8,Central,Neurology,Dr. Owusu,14/10/2024,Asthma,4990.8,Pending,5,3
+PT1190,Male,59,Oti,Neurology,Dr. Nkrumah,12/12/2024,Diabetes,3089.38,Paid,2,3
+PT1191,Female,29,Savannah,Orthopedics,Dr. Owusu,19/12/2024,Migraine,1653.5,Pending,3,3
+PT1192,Male,74,Bono,Dermatology,Dr. Nkrumah,15/03/2024,Diabetes,306.13,Insurance,0,3
+PT1193,Female,84,Upper West,ENT,Dr. Owusu,13/04/2024,Ulcer,1428.55,Insurance,3,2
+PT1194,Male,79,Upper East,Gynecology,Dr. Mensah,08/12/2024,Ulcer,1205.79,Paid,0,1
+PT1195,Female,43,Western North,Surgery,Dr. Asare,03/01/2024,Ulcer,4891.76,Paid,5,4
+PT1196,Female,84,Northern,Orthopedics,Dr. Nkrumah,26/05/2024,Malaria,4548.89,Paid,2,5
+PT1197,Male,23,Bono East,Pediatrics,Dr. Mensah,22/07/2024,Migraine,1012.93,Insurance,3,1
+PT1198,Male,39,Western,Cardiology,Dr. Adjei,20/08/2024,Ulcer,2669.16,Paid,7,3
+PT1199,Male,15,Oti,Pediatrics,Dr. Dapaah,27/11/2024,Diabetes,3621.13,Paid,4,3
+PT1200,Male,23,Bono,Dermatology,Dr. Amoako,16/06/2024,Typhoid,2064.08,Paid,1,2
+PT1201,Female,42,Upper East,General Medicine,Dr. Adjei,15/07/2024,Hypertension,2289.0,Pending,4,3
+PT1202,Male,34,Ahafo,Gynecology,Dr. Mensah,07/12/2024,Typhoid,2380.44,Paid,5,5
+PT1203,Female,89,Western,Orthopedics,Dr. Nkrumah,10/11/2024,Hypertension,1173.73,Paid,7,2
+PT1204,Female,78,Ahafo,Dermatology,Dr. Amoako,29/08/2024,Ulcer,4029.78,Paid,2,5
+PT1205,Male,68,North East,Neurology,Dr. Nkrumah,09/02/2024,Skin Infection,649.82,Insurance,2,5
+PT1206,Male,22,Oti,Neurology,Dr. Dapaah,29/02/2024,Hypertension,3612.9,Pending,0,5
+PT1207,Female,8,North East,Pediatrics,Dr. Amoako,31/07/2024,Migraine,2863.16,Insurance,7,3
+PT1208,Male,51,Upper West,General Medicine,Dr. Owusu,23/10/2024,Typhoid,321.92,Pending,0,5
+PT1209,Male,9,Western North,General Medicine,Dr. Adjei,28/07/2024,Flu,3867.96,Insurance,5,3
+PT1210,Female,58,Bono,Dermatology,Dr. Boateng,15/12/2024,Ulcer,751.65,Pending,0,2
+PT1211,Female,68,Central,Gynecology,Dr. Mensah,12/01/2024,Diabetes,2368.72,Insurance,5,5
+PT1212,Female,30,Upper East,ENT,Dr. Nkrumah,20/03/2024,Diabetes,1023.55,Insurance,0,1
+PT1213,Female,79,Greater Accra,Gynecology,Dr. Owusu,04/02/2024,Typhoid,3010.33,Pending,0,2
+PT1214,Male,52,North East,Gynecology,Dr. Amoako,21/04/2024,Malaria,786.66,Pending,2,5
+PT1215,Female,74,Oti,Gynecology,Dr. Adjei,14/03/2024,Ulcer,1183.11,Pending,3,1
+PT1216,Male,81,Bono East,Neurology,Dr. Dapaah,25/01/2024,Asthma,4713.77,Insurance,5,5
+PT1217,Female,90,Bono East,Dermatology,Dr. Asare,02/06/2024,Fracture,1001.01,Insurance,7,2
+PT1218,Male,39,Central,ENT,Dr. Mensah,14/10/2024,Fracture,4842.15,Insurance,1,4
+PT1219,Male,33,Northern,Cardiology,Dr. Boateng,18/08/2024,Asthma,553.07,Insurance,2,1
+PT1220,Female,49,Ashanti,Surgery,Dr. Owusu,27/10/2024,Ulcer,1163.38,Paid,4,3
+PT1221,Male,28,Northern,Surgery,Dr. Dapaah,04/05/2024,Skin Infection,3548.47,Pending,2,5
+PT1222,Female,37,Bono,ENT,Dr. Amoako,28/11/2024,Asthma,1611.27,Pending,7,4
+PT1223,Male,61,Oti,Gynecology,Dr. Nkrumah,09/06/2024,Fracture,324.01,Paid,1,1
+PT1224,Female,71,Bono East,Orthopedics,Dr. Asare,10/04/2024,Asthma,1227.09,Insurance,2,4
+PT1225,Female,33,Western North,ENT,Dr. Dapaah,27/03/2024,Asthma,929.4,Insurance,7,2
+PT1226,Male,68,Ashanti,Surgery,Dr. Mensah,04/01/2024,Fracture,773.71,Insurance,2,1
+PT1227,Male,2,Northern,Neurology,Dr. Dapaah,10/07/2024,Malaria,3127.39,Insurance,7,4
+PT1228,Male,1,Bono East,General Medicine,Dr. Mensah,28/09/2024,Diabetes,2725.12,Pending,0,5
+PT1229,Female,23,Western,Surgery,Dr. Amoako,17/03/2024,Hypertension,1040.47,Insurance,3,3
+PT1230,Female,51,Eastern,Cardiology,Dr. Gyamfi,23/08/2024,Skin Infection,1291.72,Insurance,2,3
+PT1231,Male,84,Ashanti,Surgery,Dr. Gyamfi,13/07/2024,Fracture,2808.24,Paid,0,2
+PT1232,Male,64,Bono East,Cardiology,Dr. Sarpong,18/02/2024,Ulcer,4603.85,Paid,2,5
+PT1233,Female,35,Ashanti,Surgery,Dr. Adjei,05/10/2024,Skin Infection,3324.74,Paid,4,1
+PT1234,Male,76,Central,Dermatology,Dr. Boateng,02/06/2024,Flu,2863.4,Insurance,5,5
+PT1235,Female,50,Central,Surgery,Dr. Amoako,26/06/2024,Malaria,578.66,Paid,0,3
+PT1236,Female,42,Greater Accra,Orthopedics,Dr. Dapaah,08/09/2024,Hypertension,1843.47,Pending,5,2
+PT1237,Female,11,Savannah,Gynecology,Dr. Boateng,12/02/2024,Diabetes,855.68,Insurance,1,4
+PT1238,Female,47,Western,Surgery,Dr. Mensah,06/06/2024,Migraine,1863.6,Pending,0,2
+PT1239,Male,24,Bono East,ENT,Dr. Amoako,11/10/2024,Ulcer,2099.42,Paid,0,3
+PT1240,Male,77,Oti,Dermatology,Dr. Mensah,29/05/2024,Fracture,2000.22,Paid,2,5
+PT1241,Male,88,Bono,Pediatrics,Dr. Asare,17/05/2024,Diabetes,1415.19,Paid,0,2
+PT1242,Female,36,Bono East,Orthopedics,Dr. Dapaah,09/02/2024,Asthma,1333.33,Paid,7,5
+PT1243,Male,59,Western,Pediatrics,Dr. Adjei,04/01/2024,Fracture,1727.86,Insurance,5,3
+PT1244,Female,43,Bono East,Ophthalmology,Dr. Asare,02/06/2024,Asthma,3055.74,Insurance,2,4
+PT1245,Female,23,Bono,Cardiology,Dr. Adjei,21/12/2024,Migraine,4842.04,Paid,4,4
+PT1246,Female,51,Ahafo,Surgery,Dr. Sarpong,12/04/2024,Skin Infection,4986.6,Paid,0,4
+PT1247,Male,57,Savannah,Surgery,Dr. Gyamfi,10/12/2024,Migraine,781.98,Pending,2,3
+PT1248,Male,55,Bono,Surgery,Dr. Dapaah,02/11/2024,Migraine,2953.0,Insurance,5,5
+PT1249,Male,47,Eastern,Surgery,Dr. Owusu,02/12/2024,Asthma,915.06,Insurance,0,5
+PT1250,Female,43,Bono East,Surgery,Dr. Mensah,20/02/2024,Diabetes,1187.81,Insurance,2,4
+PT1251,Female,51,North East,Ophthalmology,Dr. Amoako,18/03/2024,Asthma,4988.74,Pending,0,3
+PT1252,Female,11,Western,Pediatrics,Dr. Nkrumah,08/06/2024,Asthma,2331.13,Paid,7,3
+PT1253,Female,13,North East,ENT,Dr. Nkrumah,04/02/2024,Diabetes,318.95,Insurance,0,1
+PT1254,Female,83,Western,Pediatrics,Dr. Owusu,21/09/2024,Flu,2804.36,Pending,5,4
+PT1255,Male,52,Volta,Pediatrics,Dr. Gyamfi,21/07/2024,Malaria,3713.2,Paid,7,5
+PT1256,Female,50,Greater Accra,Gynecology,Dr. Owusu,22/05/2024,Typhoid,2929.0,Insurance,1,3
+PT1257,Female,26,North East,Surgery,Dr. Adjei,09/12/2024,Migraine,2685.8,Insurance,4,5
+PT1258,Female,79,Bono,Ophthalmology,Dr. Boateng,27/06/2024,Asthma,4243.04,Insurance,1,3
+PT1259,Male,87,Central,Cardiology,Dr. Boateng,02/05/2024,Diabetes,673.05,Pending,1,5
+PT1260,Female,54,Central,Ophthalmology,Dr. Gyamfi,04/08/2024,Flu,2484.68,Insurance,1,5
+PT1261,Male,63,Savannah,Pediatrics,Dr. Asare,10/06/2024,Migraine,3135.11,Pending,0,4
+PT1262,Male,25,Bono,Neurology,Dr. Amoako,30/11/2024,Migraine,2104.76,Pending,5,4
+PT1263,Female,22,Eastern,Ophthalmology,Dr. Mensah,22/04/2024,Diabetes,260.21,Paid,3,2
+PT1264,Female,73,Western North,Neurology,Dr. Amoako,27/02/2024,Skin Infection,659.61,Insurance,4,5
+PT1265,Male,57,Northern,Dermatology,Dr. Boateng,30/11/2024,Hypertension,1558.77,Paid,7,3
+PT1266,Female,12,North East,Surgery,Dr. Owusu,17/04/2024,Skin Infection,3476.75,Insurance,5,2
+PT1267,Male,27,Northern,General Medicine,Dr. Sarpong,28/06/2024,Ulcer,1477.32,Insurance,1,3
+PT1268,Female,38,Upper West,Neurology,Dr. Boateng,10/03/2024,Fracture,4601.97,Pending,1,2
+PT1269,Male,19,Oti,Gynecology,Dr. Gyamfi,07/09/2024,Flu,2929.39,Pending,5,4
+PT1270,Female,10,Eastern,Dermatology,Dr. Amoako,22/05/2024,Asthma,2328.01,Pending,4,5
+PT1271,Male,12,North East,Cardiology,Dr. Boateng,30/09/2024,Fracture,1167.37,Pending,2,4
+PT1272,Female,42,Savannah,Cardiology,Dr. Amoako,22/10/2024,Flu,2874.1,Pending,4,1
+PT1273,Male,13,North East,General Medicine,Dr. Boateng,21/03/2024,Migraine,2336.94,Pending,2,2
+PT1274,Female,21,Upper West,Surgery,Dr. Nkrumah,08/05/2024,Typhoid,1922.03,Insurance,1,1
+PT1275,Female,81,Savannah,Gynecology,Dr. Gyamfi,01/12/2024,Typhoid,3548.12,Paid,2,4
+PT1276,Male,17,Upper East,Neurology,Dr. Dapaah,05/01/2024,Malaria,3508.43,Paid,5,2
+PT1277,Female,10,Upper East,Dermatology,Dr. Boateng,22/02/2024,Typhoid,1635.42,Pending,1,4
+PT1278,Male,83,Central,Surgery,Dr. Amoako,15/10/2024,Malaria,3090.56,Paid,7,3
+PT1279,Male,81,Central,Dermatology,Dr. Sarpong,17/12/2024,Migraine,4313.82,Paid,0,2
+PT1280,Male,76,Bono,Cardiology,Dr. Gyamfi,10/06/2024,Flu,1314.15,Insurance,0,2
+PT1281,Female,89,Greater Accra,Orthopedics,Dr. Owusu,22/09/2024,Skin Infection,2596.66,Insurance,5,3
+PT1282,Male,31,Western North,Dermatology,Dr. Boateng,03/05/2024,Migraine,3226.6,Paid,0,3
+PT1283,Female,17,Bono,Ophthalmology,Dr. Gyamfi,06/07/2024,Ulcer,3446.42,Pending,0,1
+PT1284,Male,2,Upper West,Gynecology,Dr. Mensah,31/01/2024,Fracture,2582.39,Insurance,5,4
+PT1285,Female,11,Central,Orthopedics,Dr. Boateng,07/06/2024,Typhoid,2605.39,Paid,1,5
+PT1286,Female,51,Eastern,Orthopedics,Dr. Gyamfi,02/05/2024,Malaria,1297.95,Pending,0,4
+PT1287,Male,40,Volta,Surgery,Dr. Mensah,28/12/2024,Flu,3537.35,Paid,7,3
+PT1288,Female,22,Ahafo,Pediatrics,Dr. Adjei,01/03/2024,Malaria,1741.55,Pending,3,5
+PT1289,Male,34,Eastern,ENT,Dr. Dapaah,18/09/2024,Asthma,371.65,Insurance,1,3
+PT1290,Male,33,Western,Ophthalmology,Dr. Boateng,26/04/2024,Ulcer,112.59,Paid,2,1
+PT1291,Female,47,Bono,Pediatrics,Dr. Asare,19/01/2024,Ulcer,4035.27,Insurance,5,2
+PT1292,Female,32,Bono East,Cardiology,Dr. Adjei,09/02/2024,Skin Infection,1926.76,Insurance,0,2
+PT1293,Male,67,Ashanti,Dermatology,Dr. Boateng,26/08/2024,Diabetes,3890.28,Pending,4,1
+PT1294,Female,2,Ahafo,Gynecology,Dr. Adjei,15/10/2024,Diabetes,3723.92,Paid,7,3
+PT1295,Female,26,Upper East,Pediatrics,Dr. Mensah,28/07/2024,Malaria,1241.69,Pending,0,3
+PT1296,Male,85,Bono,Orthopedics,Dr. Boateng,15/04/2024,Ulcer,4917.27,Pending,7,1
+PT1297,Male,36,Eastern,General Medicine,Dr. Owusu,23/09/2024,Fracture,3534.15,Pending,7,1
+PT1298,Male,65,Central,Dermatology,Dr. Boateng,30/10/2024,Skin Infection,405.19,Insurance,1,2
+PT1299,Female,34,Oti,Dermatology,Dr. Nkrumah,11/06/2024,Migraine,1432.58,Paid,2,2
+PT1300,Male,20,Western,Pediatrics,Dr. Dapaah,26/08/2024,Asthma,2091.91,Insurance,4,2
